@@ -28,9 +28,9 @@
                     </h1>
 
                     <div class="space-y-6">
-                        {{
+                        {!!
                             $post->body
-                        }}
+                        !!}
                     </div>
                 </div>
             </article>
